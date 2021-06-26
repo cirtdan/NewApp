@@ -1,5 +1,7 @@
 package staticP;
 
+//Ziya
+
 public class Class1 {
 
     int numberInstance;
