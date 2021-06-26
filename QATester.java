@@ -7,7 +7,7 @@ public class QATester {
     public static void main(String[] args) {
         QAEngineer engineer1 = new QAEngineer("Rafael", 2, 30, 1, false);
         QAEngineer engineer2 = new QAEngineer("Bahar", 7, 31, 2, false);
-
+String change;
 //        System.out.println(QAEngineer.companyName); // static variables are the property of the class rather than each object
          // Static variables are accessed by ClassName.variablename
 //        System.out.println(Math.PI);
